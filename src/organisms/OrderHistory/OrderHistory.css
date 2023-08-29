@@ -1,0 +1,28 @@
+.order_flex-container-cart{
+    display:flex;
+    width: 80%;
+}
+.round_boarder {
+    border: 2px solid rgb(70, 49, 49);
+  border-radius: 5px;
+  padding: 5px;
+  }
+  .margin_name{
+    margin-left: 50px;
+    flex-grow:1;
+}
+.price_margin{
+    margin-top: 20px;
+}
+.nothing_container{
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+    margin-top: 250px;
+}
+.container_margin{
+    margin: 30px;
+}
+.center{
+    text-align: center;
+}
