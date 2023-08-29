@@ -1,0 +1,20 @@
+.product-flex-container{
+    display: flex;
+    background-color: #f1f1f1;
+}
+.product-div-design{
+    width: 50%;
+    margin: 20px;
+}
+.product-image-design{
+    width: 50%;
+    height: 550px;
+  padding: 20px;
+}
+.productInfoTitle{
+  margin-top: 10px;
+}
+.productInfoCategory{
+  margin-top: 10px;
+  color: aqua;
+}
